@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c8f7f84d.css",
+    "main.js": "/static/js/main.babba937.js",
+    "static/media/NFT.svg": "/static/media/NFT.75b13ce915e862717f569a11f8835c3b.svg",
+    "static/media/Balance.svg": "/static/media/Balance.2cd51246ed0a2954a9547857f6e48665.svg",
+    "static/media/watchit.svg": "/static/media/watchit.f7ad439f70d12629cee18be821c2d852.svg",
+    "static/media/Quick Exchage.png": "/static/media/Quick Exchage.0bde92a1b7d05259d2d2.png",
+    "static/media/Mail-Icon.svg": "/static/media/Mail-Icon.4df290e0ac229f3a51b1f8c7e5d9a637.svg",
+    "static/media/Referal-Code.svg": "/static/media/Referal-Code.0887731712708b5f232fd836f578fed2.svg",
+    "static/media/Password-Icon.svg": "/static/media/Password-Icon.39c1cf6a8ab887c12a84dcb99fdb6ab6.svg",
+    "static/media/Check.svg": "/static/media/Check.ff5bf0d89f96500773191424295711bf.svg",
+    "index.html": "/index.html",
+    "main.c8f7f84d.css.map": "/static/css/main.c8f7f84d.css.map",
+    "main.babba937.js.map": "/static/js/main.babba937.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8f7f84d.css",
+    "static/js/main.babba937.js"
+  ]
+}
